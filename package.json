@@ -1,0 +1,22 @@
+{
+  "name": "lyrids",
+  "version": "0.0.1",
+  "description": "Client tool for lyrids",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xbyte-team/lyrids-client.git"
+  },
+  "keywords": [
+    "lyrids"
+  ],
+  "author": "Amed Kino - XByte.Team",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/xbyte-team/lyrids-client/issues"
+  },
+  "homepage": "https://github.com/xbyte-team/lyrids-client#readme"
+}
