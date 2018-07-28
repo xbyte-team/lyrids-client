@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Client tool for lyrids",
   "main": "index.js",
+  "bin": {
+    "lyrids": "./index.js"
+  },
   "scripts": {
     "test": "test"
   },
