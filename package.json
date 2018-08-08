@@ -1,6 +1,6 @@
 {
   "name": "lyrids",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Client tool for lyrids",
   "main": "index.js",
   "bin": {
