@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Client tool for lyrids",
   "main": "index.js",
+  "bin": {
+    "lyrids": "./index.js"
+  },
   "scripts": {
     "test": "test"
   },
@@ -18,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/xbyte-team/lyrids-client/issues"
   },
-  "homepage": "https://github.com/xbyte-team/lyrids-client#readme"
+  "homepage": "https://github.com/xbyte-team/lyrids-client#readme",
+  "dependencies": {
+    "colors": "^1.3.1"
+  }
 }
